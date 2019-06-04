@@ -58,7 +58,7 @@ a[href="#favs"] {
   background-color: #717e07;
 }
 
-h2 ul li:nth-child(2) {
+.dfn ul li:nth-child(2){
   background-color: #2694d8;
 }
 
