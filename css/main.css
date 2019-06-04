@@ -1,0 +1,95 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+nav ul {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents {
+  color: #93a1a1;
+}
+
+#favs {
+  color: #93a1a1;
+}
+
+#facts {
+  color: #93a1a1;
+}
+
+#types {
+  color: #93a1a1;
+}
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.bot {
+  color: #fff;
+}
+
+a[href="index.html"] {
+  background-color: #719e07;
+}
+
+a[href="history.html"] {
+  background-color: #719e07;
+}
+
+a[href="contact.html"] {
+  background-color: #719e07;
+}
+
+a[href="#favs"] {
+  background-color: #717e07;
+}
+
+h2 ul li:nth-child(2) {
+  background-color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+.types li:nth-child(odd) {
+  background-color: #657ba3;
+}
+
+.types li:nth-child(even) {
+  background-color: #586e75;
+}
+
+.types li:nth-child(3) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(6) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(9) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(12) {
+  background-color: #d04b16;
+}
